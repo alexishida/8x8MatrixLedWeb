@@ -1,0 +1,14 @@
+/******************************************************************************
+*                                                                             *
+*    Envio de dados para matriz de led 8x8 via string através da porta serial * 
+*    pela web utilizando PHP                                                  *
+*                                                                             *
+*    Versão: 1.0                                                              *
+*    Data: 01/11/2013                                                         *
+*    Autor: Alex Ishida                                                       *
+*    Site: http://alexishida.com                                              *
+*    E-mail: alexishida@gmail.com                                             *
+*                                                                             *
+******************************************************************************/
+
+Todos os códigos podem ser alterados desde que permaneça a fonte e o autor.
